@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajithm_mathew
+- 👋 Hi, I’m @ajith_mathew
 - 👀 I’m interested in football,watching anime & movies,cooking
 - 🌱 I’m currently pursuing bachelor in computer application with specialistion in Artificial Intilligence
 - 💞️ I’m looking to collaborate on Artificial Intelligence,automation And Machine/Deep Learning projects 
